@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NDP-GAME", "NDP-GAME.csproj", "{60D363A0-CD86-4460-9953-AE2F2A3C5848}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60D363A0-CD86-4460-9953-AE2F2A3C5848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D363A0-CD86-4460-9953-AE2F2A3C5848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D363A0-CD86-4460-9953-AE2F2A3C5848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D363A0-CD86-4460-9953-AE2F2A3C5848}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2571815F-0829-4F9C-88F7-8E297C240909}
+	EndGlobalSection
+EndGlobal
